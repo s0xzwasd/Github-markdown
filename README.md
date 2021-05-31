@@ -1,1 +1,1 @@
-[Link](cmd/cmd.go:6)
+[Link](cmd/cmd.go#L6)
